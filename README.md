@@ -23,6 +23,6 @@ Availability varies by integration. Consult the current product documentation an
 
 ## Support and privacy
 
-Public issues and discussions are visible to everyone. Share reproducible steps and redacted screenshots; keep account credentials, customer conversations and personal data out of public reports. For account-specific help, use the support entry point on [busymate.ai](https://busymate.ai).
+Public issues and discussions are visible to everyone. Share reproducible steps and redacted screenshots; keep account credentials, customer conversations and personal data out of public reports. For account-specific help, use [Contact](https://busymate.ai/contact) or email [hi@busymate.ai](mailto:hi@busymate.ai).
 
 See [SUPPORT.md](SUPPORT.md), [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
