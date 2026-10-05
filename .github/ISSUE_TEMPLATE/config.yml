@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and community
+    url: https://github.com/serebano/busymate-ai/discussions
+    about: Ask questions and share ideas.
+  - name: Account-specific support
+    url: https://busymate.ai
+    about: Use the product support channel for private account questions.
+  - name: Private security report
+    url: https://github.com/serebano/busymate-ai/security/advisories/new
+    about: Report vulnerabilities privately.
