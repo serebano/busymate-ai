@@ -1,6 +1,7 @@
 name: Feature request
 description: Describe a problem Busymate AI could solve better.
 title: "[Feature] "
+labels: ["enhancement", "needs-triage"]
 body:
   - type: textarea
     id: problem
